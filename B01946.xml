@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of such His Majesties works as have been printed at York, and Shrewsbury, by His Majesties printer, since the 26. of March, 1642. unto this present.</title>
+         </titleStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01946</idno><idno type="EEBO-CITATION">52612055</idno>
+  <idno type="VID">179338</idno>
+  <idno type="EEBO-PROQUEST">2240862356</idno>
+  
+            <idno type="STC">Wing C1366B</idno>
+            <idno type="STC">ESTC R176352</idno>
+            <idno type="OCLC">52612055</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B01946)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179338)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2785:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of such His Majesties works as have been printed at York, and Shrewsbury, by His Majesties printer, since the 26. of March, 1642. unto this present.</title>
+               </titleStmt>
+               <extent>[24+] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[England? :</pubPlace>
+                  <date>1643?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Lacks all after p. [24].</note>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Bibliography --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="catalogue_of_printed_works">
+            <pb facs="tcp:179338:1"/>
+            <head>A Catalogue of such His MAJESTIES Works as have been Printed at <hi>York,</hi> and <hi>Shrewsbury,</hi> by His Majesties Printer, since the 26. of <hi>Marchs</hi> 1642. unto this present.</head>
+            <list>
+               <label>1 HUNTINGDON <date>15 <hi>Martii.</hi> 1641.</date>
+               </label>
+               <item>HIs Majesties Message to both Houses of Parliament, up<g ref="char:EOLhyphen"/>on his removall to the City of <hi>York,</hi> 1 <hi>Sheet in Folio. Re<g ref="char:EOLhyphen"/>printed the</hi> 26 <hi>of</hi> March. 1642.</item>
+               <label>2</label>
+               <item>His Majesties Declaration to both Houses of Parliament <hi>March</hi> 21. 1641. Which He likewise recommends to the con<g ref="char:EOLhyphen"/>sideration of all His loving Subjects. In answer to that pre<g ref="char:EOLhyphen"/>sented to Him at <hi>New-market</hi> the 9 of <hi>March,</hi> 1641. <hi>Three sheets in Quarte. Printed the</hi> 27 <hi>of March.</hi>
+               </item>
+               <label>3</label>
+               <item>The humble Petition of the Lords and Commons all em<g ref="char:EOLhyphen"/>bled in Parliament. Presented to His Majesty at <hi>York</hi> on Sa<g ref="char:EOLhyphen"/>turday the 26 of <hi>March,</hi> 1642. Together with His Majesties Answer thereunto. 3 <hi>Sheets in Quarto. Printed</hi> 29 <hi>March.</hi>
+               </item>
+               <label>4</label>
+               <item>The humble Petition of His Majesties royall Subjects in the County of <hi>Lincoln;</hi> with His Majesties Answer thereunto. 28. <hi>March,</hi> 1642. <hi>One sheet in Fol. Printed</hi> 2 <hi>April.</hi> 1.</item>
+               <label>5</label>
+               <item>The humble Perition of divers Noblemen and Gentlemen estated in <hi>Ireland,</hi> now at <hi>London:</hi> Presented to His Majesty at <hi>York.</hi> With His Majesties Answer thereunto. <hi>March</hi> 28. <hi>One sheet in Quarto. Printed April</hi> 4. 1642.</item>
+               <label>6</label>
+               <item>The humble Petition of the Gentry, Ministers, and Free<g ref="char:EOLhyphen"/>holders of the County of <hi>York,</hi> assembled at the Assizes there
+<pb facs="tcp:179338:2"/>holden. Presented to His Majesty the 5 of April, 1642. To<g ref="char:EOLhyphen"/>gether with His Majesties Speech at the presenting thereof: And His Gracious Answer thereunto. 2 <hi>Sheets in Quarto. Printed the</hi> 11 <hi>of Aprill,</hi> 1642.</item>
+               <label>7</label>
+               <item>His Majesties Message sent to the High Court of Parliament the 8 of <hi>April,</hi> 1642. Concerning his Resolution to go into <hi>Ireland</hi> for suppressing the Rebellion there. 1 <hi>Sheet in Quar<g ref="char:EOLhyphen"/>to. Printed the</hi> 13 <hi>of April.</hi> 1642.</item>
+               <label>8</label>
+               <item>His Majesties Message sent to both Houses of Parliament, <hi>Ianuary</hi> 20. 1641. 1 <hi>Sheet in Fol. Printed</hi> 15. <hi>April,</hi>
+               </item>
+               <label>9</label>
+               <item>The humble Petition of the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament; sent to His Majesty at <hi>York;</hi> concerning the removall of His Majesties Arms, Cannon and Ammunition in his Ma<g ref="char:EOLhyphen"/>gazine at <hi>Hull.</hi> And the taking off the Reprive of six con<g ref="char:EOLhyphen"/>demned Priests, Prisoners in Newgate. With his Majesties Answer thereunto, the 14 of <hi>April.</hi> 1642. 2 <hi>Cheets in Quarto. Printed</hi> 20. <hi>April,</hi> 1642.</item>
+               <label>10</label>
+               <item>The humble Petition of the Lords and Commons assem<g ref="char:EOLhyphen"/>bled in Parliament: Presented to His Majesty at <hi>York</hi> the 18. of <hi>April,</hi> 1642. Concerning his Message lately sent unto them, muching his resolution of going into <hi>Ireland:</hi> With His Ma<g ref="char:EOLhyphen"/>jesties Answer thereunto. 4 <hi>Sheets in Quarto. Printed April</hi> 29, 1642.</item>
+               <label>11.</label>
+               <item>His Majesties Message sent from <hi>Reverley,</hi> to both Houses of Parliament the 24. of <hi>April,</hi> concerning Sir <hi>Iohn Hothams</hi> re<g ref="char:EOLhyphen"/>fusall to permit His Majesty to enter into his Town of <hi>Hull.</hi> Together with a Petition presented unto His Majesty in the name of the Gentry and Commons of the County of <hi>York;</hi> With His Majesties Letter to the Major, Aldermen, and Bur<g ref="char:EOLhyphen"/>gesses of the Town and Port of <hi>Kingston</hi> upon <hi>Hull,</hi> 25 <hi>April,</hi> 1642. 3 <hi>Sheets in Quarto. Printed</hi> 2 May.</item>
+               <label>
+                  <pb facs="tcp:179338:2"/> 12</label>
+               <item>His Majesties second Message sent to the Parliament con<g ref="char:EOLhyphen"/>cerning Sir <hi>Iohn Hothams</hi> refusall to give His Majesty entrance into his Town of <hi>Hull,</hi> 28. <hi>April,</hi> 1642. 1 <hi>Sheet in Fol. Printed</hi> 29. <hi>April,</hi> 1642.</item>
+               <label>13</label>
+               <item>His Majesties Message to both Houses of Parliament, 28. <hi>April,</hi> 1642. Declaring the reasons of his refusall to passe the Bill lately sent unto him for setling of the <hi>Militia</hi> 2 <hi>Sheets in Quarto. Printed the</hi> 7. <hi>of May,</hi> 1642.</item>
+               <label>14</label>
+               <item>A Copy of a Letter sent from the Lords Justices, and the rest of the Privy Councell in <hi>Ireland,</hi> concerning His Majesties Resolution to go into that his Kingdom. 1 <hi>Sheet in Folw. Printed</hi> 9 <hi>May,</hi> 1642.</item>
+               <label>15</label>
+               <item>His Majesties Message to the House of Peers, <hi>April</hi> 22. 1642. 1 <hi>Sheet in Fol. Printed the</hi> 10. <hi>of May.</hi>
+               </item>
+               <label>16</label>
+               <item>His Majesties Warrant of the 5. of <hi>May</hi> 1642. to the High Sheriffe of <hi>Yorkshire,</hi> Concerning the Trained Bands, 1 <hi>Sheet in Fol. Printed</hi> 10. <hi>May.</hi> 1642.</item>
+               <label>17</label>
+               <item>The Declaration, and Votes of both Houses of Parliament, Concerning the Magazine at <hi>Hull,</hi> And Sir <hi>Iohn Hotham;</hi> With the Order of Assistance. And His Majesties Answer thereunto. With the Statute of 1<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Hen.</hi> 7. <hi>Cap.</hi> 1. 4 <hi>Sheets in Quarto. Printed</hi> 11. <hi>May.</hi> 1642.</item>
+               <label>18</label>
+               <item>The humble Petition of 85. Gentlemen and Freeholders, and 15. Ministers of the County Palatine of <hi>Chester:</hi> Present<g ref="char:EOLhyphen"/>ed to His Majesty at <hi>York,</hi> the 7 of <hi>May,</hi> 1642. in behalf of themselves and others. Together with His Majesties Graci<g ref="char:EOLhyphen"/>ous Answer. 1 <hi>Sheet and a half in Quarto. Print'd</hi> 12 May 1642.</item>
+               <label>19</label>
+               <item>The Answer of both Houses of parliament; Presented to His Majesty at <hi>York</hi> the 9. of <hi>May,</hi> Concerning Sir <hi>Iohn Hothams</hi> refusall to give His Majesty entrance into His Town of <hi>Hull:</hi>
+                  <pb facs="tcp:179338:3"/>With His Majesties Reply thereunto. 2 <hi>Sheets in Quarto. Print<g ref="char:EOLhyphen"/>ed</hi> May 13. 1642.</item>
+               <label>20</label>
+               <item>His Majesties Speech to the Gentry of the County of <hi>York,</hi> attending His Majesty at the City of <hi>York</hi> on Thursday the 12. of May. 1642. 1 <hi>Cheet in Folio. Printed</hi> May 14.</item>
+               <label>21</label>
+               <item>A Warrant for the Gentry of <hi>Yorkshire,</hi> to appear at the City of <hi>York,</hi> on Friday the 20. of <hi>May,</hi> 1642. 1 <hi>Sheet in Folio. Printed</hi> May 16.</item>
+               <label>22</label>
+               <item>His Majesties Answer, by way of Declaration, to a Printed Paper, Intituled, A Declaration of both Houses of Parlia<g ref="char:EOLhyphen"/>ment: in Answer to his Majesties last Message concerning the <hi>Militia, York</hi> 17. May, 1642. 3 <hi>Sheets in Quarto. Printed</hi> May 18.</item>
+               <label>23</label>
+               <item>An Abstract of certain Depositions, by vertue of His Ma<g ref="char:EOLhyphen"/>jesties Commission, taken upon oath, concerning the traiterous Intention of the Rebels in <hi>Ireland,</hi> in rejecting the govern<g ref="char:EOLhyphen"/>ment of His Majesty, in having a King of their own; and who that King should be. With an extract of a Letter from <hi>Rome.</hi> 4 Jan. 1641. 1 <hi>Sheet and a half in Quarto. Printed</hi> May 20. 1642.</item>
+               <label>24</label>
+               <item>The Petition of both Houses of Parliament, presented to His Majesty at <hi>York,</hi> May 23. Concerning the Disbanding of his Guard, With the 3 Votes of both Houses, of the 20. And His Majesties Answer thereunto. 2 <hi>Sheets and a half in Quar<g ref="char:EOLhyphen"/>to. Printed</hi> May 22. 1642.</item>
+               <label>25</label>
+               <item>His Majesties Summons to the Ministers, Freeholders, Far<g ref="char:EOLhyphen"/>mers, and Substantiall Coppie-holders of the County of <hi>York,</hi> to meet him at <hi>Heworth-moor,</hi> on Friday in Whitson-week. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Sheet in Folio. Printed</hi> May 23. 1642.</item>
+               <label>26</label>
+               <item>A Proclamation forbidding all His Majesties Subjects be<g ref="char:EOLhyphen"/>longing to the Trained Bands, or <hi>Militia</hi> of this Kingdom, to Pile, March, Muster, or Exercise, by vertue of any Order or Ordinance of one or both Houses of Parliament, without Consent or Warrant from His Majesty, upon pain of punish<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:179338:3"/>according to the Law. Given at <hi>York</hi> the 27. of May, 1642. 2 <hi>Sheets in Fol. Printed</hi> May 28.</item>
+               <label>27</label>
+               <item>A Paper prohibiting the resort of people to <hi>York,</hi> to be touched for the Kings-Evill, till Michaelmas next. <hi>Half a sheet Printed</hi> May 29.</item>
+               <label>28</label>
+               <item>His Majesties Declaration to the Ministers, Freeholders, Farmers, and substantiall Coppy-holders of the County of <hi>York,</hi> assembled by His Majesties speciall Summons, at <hi>Heworth-moor,</hi> neer the City of <hi>York,</hi> on Friday the 3 of June, 1642. 1 <hi>Sheet and a half in quarto. Printed Iune</hi> 2.</item>
+               <label>29</label>
+               <item>To the right Honourable the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament assembled: The humble Petition of the Gentry, Mini<g ref="char:EOLhyphen"/>sters, Freeholders and other substantiall Inhabitants of the County of <hi>York.</hi> 1 <hi>Sheet in Folio. Printed Iune</hi> 4. 1642.</item>
+               <label>30</label>
+               <item>His Majesties Answer to a Book intituled, The Declaration or Remonstrance of the Lords and Commons, of the 19. of <hi>May,</hi> 1642. 7 <hi>Sheets in quarto. Printed Iune</hi> 5.</item>
+               <label>31</label>
+               <item>His Majesties Answer to a printed Book, intituled, A Re<g ref="char:EOLhyphen"/>monstrance, or the Declaration of the Lords and Commons now assembled in Parliament, 26 May 1642. In Answer to a Declaration under His Majesties name concerning the busi<g ref="char:EOLhyphen"/>nesse of <hi>Hull.</hi> 7 <hi>Sheets and a half in quarto Printed Iuly</hi> 10. 1642.</item>
+               <label>32</label>
+               <item>The humble Gratulation and Petition of divers his Maje<g ref="char:EOLhyphen"/>sties faithfull Subjects of the true Protestant Religion within the County Palatine of <hi>Lancaster.</hi> With His Majesties An<g ref="char:EOLhyphen"/>swer thereunto. 1 <hi>Sheet and a half. Printed Iune</hi> 12. 1643.</item>
+               <label>33</label>
+               <item>His Majesties Declaration to all his loving Subjects, occa<g ref="char:EOLhyphen"/>sioned by a false and scandalous Imputat on said upon his Ma<g ref="char:EOLhyphen"/>jesty of an intention of raising or levying war against his Par<g ref="char:EOLhyphen"/>liament; and of having raised force to that end. Published at his Court at <hi>York</hi> the 16. day of <hi>Iune,</hi> 1642. With his Maje<g ref="char:EOLhyphen"/>sties
+<pb facs="tcp:179338:4"/>Declaration and Profession, disavowing any Preparations or Intentions in him of levying war against his Parliament. And the Declaration and Profession of the Lords, and others of his Majesties most honourable Privy Councell, now at <hi>York,</hi> disavowing any appearance of the same. 3 <hi>Sheets in quarto. Printed Iune</hi> 19. 1642.</item>
+               <label>34</label>
+               <item>A Proclamation forbidding all levies of Forces, without his Majesties expresse pleasure, signified under his Great Seal, and all Contributions or Assistance to any such Levies. Given at <hi>York</hi> the 18. day of June, 1642. 3 <hi>Sheets in quarto. Printed Iune</hi> 20.</item>
+               <label>35</label>
+               <item>A Proclamation to inform all Our loving Subjects of the lawfulnesse of Our Commissions of Array, issued into the severall Counties of Our Realm of <hi>England,</hi> and Dominion of <hi>Wales,</hi> and of the use of them: And commanding them to obey Our Commissioners therein named, in the execution of their said Commissions. Given at <hi>York,</hi> June 20. 1642. 3 <hi>Sheets in Folio. Printed Iune</hi> 21.</item>
+               <label>36</label>
+               <item>His Majesties Proclamation for the more free Passage of all his loving Subjects, and the free carriage and conveyance of their Horses, Provisions, or other Good, from any one place or part to another, within His Kingdom of <hi>England</hi> and the Dominions thereof. Given at <hi>York</hi> June 18. 1642. 1 <hi>Sheet in quarto. Printed Iune</hi> 21.</item>
+               <label>37</label>
+               <item>The humble Petition of the Lords and Commons assem<g ref="char:EOLhyphen"/>bled in Parliament, presented to his Majesty at <hi>York</hi> 17 June, 1642. With his Majesties Answer thereunto. 3 <hi>Sheets and a half in quarto. Printed</hi> 23. <hi>Iune.</hi>
+               </item>
+               <label>38</label>
+               <item>Nineteen Propositions made by both Houses of Parlia<g ref="char:EOLhyphen"/>ment to the Kings most Excellent Majestie: With his Maje<g ref="char:EOLhyphen"/>sties Answer thereunto. By the King. <hi>Our expresse pleasure is, That this Our Answer be read and published throughout all Churcher and Chappels of the Kingdom of</hi> England, <hi>and Dominion of</hi> Wales, <hi>by the severall Parsons Vicars, or Curates of the same.</hi> 1 Sheets in Quarto. Printed <hi>Iune.</hi> 22. 1642.</item>
+               <label>
+                  <pb facs="tcp:179338:4"/> 39</label>
+               <item>His Majesties Answer to a Printed Paper Intituled, A new Declaration of the Lords and Commons in Parliament, of the 21. of June, 1642. In answer to his Majesties Letter dated the 14. of <hi>Iune:</hi> and sent to the Lord Major, Aldermen, and She<g ref="char:EOLhyphen"/>riffs of the City of <hi>London. Ordered to be read in Churches.</hi> 1 <hi>Sheet and a half in quarto. Printed</hi> June 26. 1642.</item>
+               <label>40</label>
+               <item>The humble Petition of the County of <hi>Cornwall,</hi> with His Majesties Answer thereunto. <hi>York</hi> 26. <hi>Iune</hi> 1642. 1 <hi>Sheet in Folio. Printed Iune</hi> 27.</item>
+               <label>41</label>
+               <item>A Proclamation touching the present Governing, and Com<g ref="char:EOLhyphen"/>manding of His Majesties Fleet, and Ships now at Sea. Given at <hi>York</hi> 28 <hi>Iune,</hi> 1642. 1 <hi>Sheet in Folio. Printed</hi> 29. <hi>Iune.</hi>
+               </item>
+               <label>42</label>
+               <item>The humble Petition of Captain <hi>William Booth</hi> of <hi>Killing-holm</hi> in the County of <hi>Lincoln.</hi> With His Majesties Answer thereunto. <hi>York</hi> 30. <hi>Iune,</hi> 1642. 1 <hi>Sheet in Folio. Printed Iuly,</hi> 2.</item>
+               <label>43</label>
+               <item>A Proclamation declaring His Majesties Gracious Pardon to all the Officers, and Souldiers now in the Town and Coun<g ref="char:EOLhyphen"/>ty of <hi>Kingston</hi> upon <hi>Hull,</hi> who, upon the publishing hereof, shall lay down their Arms, and leave the Town; And that they shall have a moneths pay to relieve them, till they shall otherwise dispose of themselves, or be imployed, or disposed of by His Majesty. Given at <hi>York</hi> July 4. 1642. 1 <hi>Sheet in Folio. Printed</hi> July 4.</item>
+               <label>44</label>
+               <item>A Proclamation, forbidding all relieving, or succouring of the Town or County of <hi>Kingston</hi> upon <hi>Hull,</hi> against His Ma<g ref="char:EOLhyphen"/>jesty. Given at <hi>York</hi> July 4. 1642. 1 <hi>Sheet in Pol. Printed Iuly</hi> 5.</item>
+               <label>45</label>
+               <item>A Proclamation against the forcible scieing, or removing any the Magazine, or Ammunition of any County. And concern<g ref="char:EOLhyphen"/>ing the execution of the <hi>Militia</hi> within this Kingdom. Given at <hi>York,</hi> 4. July 1642. 2 <hi>Sheets in Quarto. Printed.</hi> 5 July.</item>
+               <label>46</label>
+               <item>His Majesties Declaration made the 13. of <hi>Iune,</hi> to the
+<pb facs="tcp:179338:5"/>Lords attending His Majestie at <hi>York,</hi> and to others of His Majesties Privy Councell there. Together with their Pro<g ref="char:EOLhyphen"/>mile thereupon, subscribed by them. 1 <hi>Sheets in Folio. Printed Iuly</hi> 6. 1642.</item>
+               <label>47</label>
+               <item>The humble Petition, and Representation of the Gentry, Ministers, and others of the County of <hi>Cumberland</hi> and <hi>West<g ref="char:EOLhyphen"/>merland,</hi> to His Sacred Majesty. With His Majesties Answer thereunto. <hi>York</hi> 5 July, 1642. 1 <hi>Sheet in Quarto. Printed Iuly</hi> 7.</item>
+               <label>48</label>
+               <item>The Copy of a Letter sent from divers Knights, and Gen<g ref="char:EOLhyphen"/>tlemen of <hi>Nottinghamshire,</hi> to the Knights serving for that County in Parliament. 1 <hi>Iuly,</hi> 1642. 1 <hi>Sheet in Quarto. Prin<g ref="char:EOLhyphen"/>ted</hi> July 8.</item>
+               <label>49</label>
+               <item>A Proclamation declaring His Majesties purpose, to go in His Royall Person to <hi>Hull;</hi> And the true occasion and end thereof. Given at the Court at <hi>Beverley</hi> the 8. day of <hi>Iuly,</hi> 1642. 2 <hi>Sheets in Folio. Printed</hi> 9. July.</item>
+               <label>50</label>
+               <item>The humble Petition of the Gentry, and Inhabitants of <hi>Holdernesse.</hi> 1 <hi>Sheet in Folio. Printed</hi> July, 10. 1642.</item>
+               <label>51</label>
+               <item>his Majesties Speech to the Knights, Gentlemen, and Free<g ref="char:EOLhyphen"/>holders of the County of <hi>Nottingham</hi> at <hi>Newark. Half a Sheet, Printed</hi> 11. July. 1642.</item>
+               <label>52</label>
+               <item>His Majesties Speech to the Knights, Gentlemen, and Free<g ref="char:EOLhyphen"/>holders of the County of <hi>Lincoln,</hi> at <hi>Lincoln.</hi> 1 <hi>Sheet in Fol. Printed</hi> July, 12. 1642.</item>
+               <label>53</label>
+               <item>His Majesties Answer to the Parliament Petition of the 16. of July. 1642. 2 <hi>Sheets in Quarto. Printed</hi> July 15.</item>
+               <label>54</label>
+               <item>His Majesties Message to both Houses of Parliament, of the 11. day of <hi>Iuly, Half a Sheet. Printed</hi> July, 16. 1643.</item>
+               <label>55</label>
+               <item>His Majesties Speech at <hi>Leicester,</hi> to the Gentlemen, Free<g ref="char:EOLhyphen"/>holders, and Inhabitants, of that County. 1 <hi>Sheet in Fol. Printed</hi> July. 20. 1642.</item>
+               <label>56</label>
+               <item>His Majesties Speech, to the Gentlemen of <hi>Yorkshire</hi> on
+<pb facs="tcp:179338:5"/>Thursday, the 4. of <hi>August,</hi> 1 <hi>Sheets in Quarto. Printed August.</hi> 4. 1642.</item>
+               <label>57</label>
+               <item>A Proclamation against the Lord <hi>Brook,</hi> and his Adherents, &amp;c. Given at <hi>York, Aug.</hi> 2. 1642. 1 <hi>Sheet in Folto. Printed Aug.</hi> 8.</item>
+               <label>58</label>
+               <item>His Majesties Answer to the Declaration of both Houses of Parliament, concerning the Commission of Array. Of the 1. of July. 12 <hi>Sheets and a half in Quarto. Printed</hi> Aug. 8. 1642.</item>
+               <label>59</label>
+               <item>A Proclamation for the suppressing of the present Rebelli<g ref="char:EOLhyphen"/>on, under the command of <hi>Robert</hi> Earl of <hi>Essex:</hi> And the gracious offer of His Majesties free Pardon to him, and all such of his Adherents as shall within 6 dayes after the date hereof lay down their Arms. Given at <hi>York</hi> 9 <hi>August.</hi> 1642. 2 <hi>Sheets in Folio. Printed August</hi> 9.</item>
+               <label>60</label>
+               <item>The humble Petition of the Commons of <hi>Kent,</hi> agreed up<g ref="char:EOLhyphen"/>on at their generall Assizes: Presented to His Majesty the first of <hi>August,</hi> 1642. With certain Instructions from the Coun<g ref="char:EOLhyphen"/>ty of <hi>Kent,</hi> to Master <hi>Aug. Skinner,</hi> whereby the desires of the said County may be presented, by him, to the Honourable House of Commons. With His Majesties Answer to the aforesaid Petition, At the Court at <hi>York,</hi> this 4 of <hi>August,</hi> 2 <hi>Sheets in Quarto. Printed Aug.</hi> 9. 1642.</item>
+               <label>61</label>
+               <item>To the Right Honourable the Lords and Commons assem<g ref="char:EOLhyphen"/>bled in Parliament. The humble Petition, and Remon<g ref="char:EOLhyphen"/>strance of the Nobility and Gentry of the County of <hi>York.</hi> 2 <hi>Sheets in Fol. Printed</hi> 10. <hi>Aug.</hi> 1642.</item>
+               <label>62</label>
+               <item>The humble Petition of the Gentry, Ministers, Freeholders and other Inhabitants of the County of <hi>Elint, Denbigh,</hi> and <hi>Anglesey,</hi> To the Kings most excellent Majesty. 1 <hi>Sheet in Fol. Printed Aug.</hi> 10. 1642.</item>
+               <label>63</label>
+               <item>A Proclamation declaring His Majesties expresse Command;
+<pb facs="tcp:179338:6"/>That no Popish Recusants hot any other who shall refuse to take the two Oathes of Allegiance and Supremacy, shall serve him in his Army; And that the Souldiery commit no rapines upon the People, but be fitly provided of necessaries for their Money. Given at <hi>York</hi> the 10. day of <hi>Aug.</hi> 1642. 2 <hi>Sheets in Folio. Printed Aug.</hi> 11.</item>
+               <label>64</label>
+               <item>A Proclamation by His Majesty, requiring the Ayd and Assistance of all his Subjects, on the North side of <hi>Trent,</hi> and within twenty miles Southward thereof, for the suppressing of the Rebells now inarching against him. Given at <hi>York</hi> the 12. day of <hi>Aug.</hi> 1642. 2 <hi>Sheets in Folio. Printed Aug.</hi> 13.</item>
+               <label>65</label>
+               <item>His Majesties Declaration, for the relief of the poor Mi<g ref="char:EOLhyphen"/>ners, within the County of <hi>Derby.</hi> 1 <hi>Sheet in Folio. Printed Aug.</hi> 16. 1642.</item>
+               <label>66</label>
+               <item>His Majesties Message to the House of Commons, from the Court at <hi>York</hi> the 13. of <hi>Aug.</hi> 1642. 1 <hi>Sheet in Folio Printed</hi> 17. <hi>Aug.</hi>
+               </item>
+               <label>67</label>
+               <item>His Majesties Declaration to all his loving Subjects of the 12. of <hi>Aug.</hi> 1642. 12 <hi>Sheets in Quarto. Printed Aug.</hi> 24.</item>
+               <label>68</label>
+               <item>The Declaration and Protestation agreed upon by the Grand-Jury at the Assizes, held for the County of <hi>Worcester,</hi> the third day of <hi>Aug.</hi> 1642. And assented unto by the high Sheriffe, the Lord <hi>Coventrey,</hi> the Baronets, Knights, Justices of the Peace, Gentlemen and Freeholders of the County of <hi>Worcester</hi> aforesaid. 1 <hi>Sheet in Folio. Printed Aug.</hi> 27. 1642.</item>
+               <label>69</label>
+               <item>His Majesties Gracious Message to both houses of Parlia<g ref="char:EOLhyphen"/>ment, sent from <hi>Nottingham</hi> 25. <hi>Aug.</hi> 1642. by the Earles of <hi>Southampton,</hi> and <hi>Dorset,</hi> Sir <hi>Iohn Culpeper</hi> Knight, Chancel<g ref="char:EOLhyphen"/>lor of the Exchequer, and Sir <hi>William Padall</hi> Knight. 1 <hi>Sheet in Folio. Printed</hi> 28. <hi>Aug.</hi> 1642.</item>
+               <label>70</label>
+               <item>His Majesties Instructions to his Commissioners of Array or the severall Counties of <hi>England</hi> and the Principality of
+<pb facs="tcp:179338:6"/>
+                  <hi>Wales:</hi> And to be observed by all Sheriffes, Majors, Justices of the Peace, Bayliff's, Headboroughs, Constables, and all other his Majesties loving Subjects whatsoever. 1 <hi>Sheet in Quarto Printed</hi> 30. <hi>Aug.</hi> 1642.</item>
+               <label>71</label>
+               <item>A Declaration of the Lords and Commons assembled in Parliament with his Majesties Answer thereunto, 1 <hi>sheet in Folio. Printed September</hi> 2. 1642.</item>
+               <label>72</label>
+               <item>The humble Answer of the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament assembled, to the Message of the 25 of <hi>August,</hi> re<g ref="char:EOLhyphen"/>ceived from his Majesty by the Earles of <hi>Southampton</hi> and <hi>Dorset,</hi> and Sir <hi>Iohn Culpeper</hi> Knight, Chancellor of the Exche<g ref="char:EOLhyphen"/>quer. With His Majesties Reply to the aforesaid Answer. 1 <hi>sheet in Folio. Printed</hi> September 5. 1642.</item>
+               <label>73</label>
+               <item>The humble Petition of the poor distressed Miners in the County of <hi>Derby,</hi> with His Majesties Answer thereunto. 1 <hi>sheet in Folio. Printed</hi> September 6. 1642.</item>
+               <label>74</label>
+               <item>Military Orders and Articles established by His Majesty, for the better ordering and Government of His Majesties Army. 2 <hi>sheets and a half in Quarto. Printed</hi> September 7. 1642.</item>
+            </list>
+            <list>
+               <pb facs="tcp:179338:7"/>
+               <head>These ensuing things were Printed, At Shrewsbury</head>
+               <label>75</label>
+               <item>HIs Majestics Speech and Protestation, made in the Head of ms A my between <hi>Stafford</hi> and <hi>Wellington</hi> the 19 of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> after the reading of his Orders. 1 <hi>Sheet in Fobio Prinood at</hi> Shrewfbury <hi>the</hi> 17. <hi>of</hi> October, 1642.</item>
+               <label>76</label>
+               <item>His Majesties Specch to the Gentlemen, Freeholders, and other Inhabitants of the County of <hi>Denbigh,</hi> and <hi>Flint,</hi> at <hi>Unexam</hi> thae 27. of September. 1 <hi>Sheet in Quaxto. Printed the</hi> 18 <hi>of</hi> October. 1642.</item>
+               <label>77</label>
+               <item>A Proclamation for the better peace and quict of Our County of <hi>Salop.</hi> Given at Our Court at <hi>Bridgnorth</hi> the 11. of <hi>October. One sheet in Fol. Printed</hi> Octob. 18. 1642.</item>
+               <label>78</label>
+               <item>His Majesties Speeoh to the Gendemen, Greetholder, and other Inhabitanes of the County of <hi>Salop,</hi> at <hi>Shrewsbury</hi> the 18. of <hi>September.</hi> 1 <hi>Seet in Folio. Printed</hi> Octob. 19. 1642.</item>
+               <label>79</label>
+               <item>Orders for the Souldiers marching out of <hi>Shrewsbury. Half a sheet. Printed</hi> 19. October, 1642.</item>
+               <label>80</label>
+               <item>His Majesties Proclamation to the Cities of <hi>London</hi> and <hi>Wellminster,</hi> Given at <hi>Ayno</hi> the 27. of Octob. 1642. <hi>Halfa sheet Reprinted</hi> Octob. 30.</item>
+               <label>81</label>
+               <item>A Proclamation of His Majesties Grace, Favour, and Par<g ref="char:EOLhyphen"/>don to the Inhabitants of his County of <hi>Glocester.</hi> Given at <hi>Oxford Nov.</hi> 3. 1642. <hi>One sheet in Folia. Reprinted Nov.</hi> 5.</item>
+               <label>82</label>
+               <item>His Majesties offer of Pardon to the Rebells now in Arms
+<pb facs="tcp:179338:7"/>against him. 1 <hi>Sheet in Folio. Reprinted Nov.</hi> 6. 1642.</item>
+               <label>83</label>
+               <item>His Majesties Declaration to all His Loving Subjects, after His late Victory against the Rebells, on Sunday the 23. of Octob. <hi>To be read in Churches.</hi> 1 <hi>Sheet in Quarto. Reprinted Nov.</hi> 27. 1642.</item>
+               <label>84</label>
+               <item>His Majesties Declaration to al His loving Subjects, upon occasion of a late Printed Paper, entituled, A Declaration and Protestation of the Lords and Commons in Parliament, to this Kingdom, and the whole World, of the 22. of October. 1 <hi>Sheet and a halfen Quarto. Reprinted Nov.</hi> 28. 1642.</item>
+               <label>85</label>
+               <item>His Majesties Declaration to all His loving Subjects, upon occasion of His late Message to both Houses of Parliament, and their refusall to treat with him for the Peace of the King<g ref="char:EOLhyphen"/>dom. <hi>To be read in Churches.</hi> 3 <hi>sheets in Quarto. Reprinted No.</hi> 30. 1642.</item>
+               <label>86</label>
+               <item>The humble Petition of the Lords and Comm ons now assembled in Parliament, delivered at <hi>Colebrook,</hi> 10. <hi>Nov.</hi> 1642. by the Earles of <hi>Pembrook,</hi> and <hi>Northumberland,</hi> Lord <hi>Wainman,</hi> Mr. <hi>Perpoint,</hi> and Sir <hi>Iohn Hippesley.</hi> 1 <hi>Sheet in Folio. Reprinted</hi> Decemb. 2. 1642</item>
+               <label>87</label>
+               <item>A Cataloque of sundry Knights, Aldermen, Doctors, Mi<g ref="char:EOLhyphen"/>nisters, and Citizens, who denying to contribute Money for the Publike Safety, and other misdemeanors are in Custody in <hi>Gresham-Colledge, Crosby-house,</hi> and other places in and about the Cities of <hi>London</hi> and <hi>Westminster,</hi> by Authority from the Parliament. 1 <hi>sheet in Folis. Reprinted Decemb.</hi> 6. 1642.</item>
+               <label>88</label>
+               <item>A Prayer of thanksgiving for His Majesties late Victory over the Rebells, <hi>Half a sheet Reprinted Decemb.</hi> 8. 1642.</item>
+               <label>89</label>
+               <item>His Majesties Declaration to all His loving Subjects of His true Intention of advancing lately to <hi>Brainceford.</hi> 1 <hi>sheet and a half in quarto. Reprinted Decemb.</hi> 12. 1642.</item>
+               <label>
+                  <pb facs="tcp:179338:8"/> 90</label>
+               <item>The Answer of both Houses of Parliament, to His Maje<g ref="char:EOLhyphen"/>sties Message of the 12. of <hi>Novemb.</hi> with His Majesties Reply thereunto. 1 <hi>sheets in quarto. Reprinted Decemb.</hi> 15. 1642.</item>
+               <label>91</label>
+               <item>A Proclamation for the better government of His Majesties Army, and for the preventing the Plundering, Spoyling, and Robbing of His Majesties Subjects, under any pretence what<g ref="char:EOLhyphen"/>soever, upon pain of the punishment herein declared. Given at <hi>Reading,</hi> the 25. of <hi>November,</hi> 1642, 1 <hi>sheet in Folio. Reprint. ed December.</hi> 17.</item>
+               <label>92</label>
+               <item>The humble Petition of both Houses of Parliament, pre<g ref="char:EOLhyphen"/>sented to His Majestie, on the 24. of <hi>November.</hi> With His Majesties Gracious Answer thereunto. 1 <hi>Sheet in quarto. Re<g ref="char:EOLhyphen"/>printed Decemb.</hi> 18. 1642.</item>
+               <label>93</label>
+               <item>
+                  <hi>Prince Rupert,</hi> his Declaration, 1 <hi>Sheet in Quarto. Reprinted Decemb.</hi> 19. 1642.</item>
+               <label>94</label>
+               <item>A Proclamation for the free and safe Passage of all Clothes, Goods, Wares, and Merchandize to our City of <hi>London.</hi> Given at <hi>Oxford</hi> 8. Decemb. 1 <hi>sheet in quarto. Reprinted</hi> Decemb. 20. 1642.</item>
+               <label>95</label>
+               <item>A proclamation for the free and safe passage of all Persons who shall desire to repaire to His Majesty, and of all Packets and Letters sent by his Majesties Ministers. Given at <hi>Oxford,</hi> 1 <hi>Novemb.</hi> 1642. <hi>half a sheet, Reprinted Decemb,</hi> 21.</item>
+               <label>96</label>
+               <item>A Proclamation of his Majesties Grace, Favour, and Pardon to all Sea-men, Saylers, Mariners, and other Water-men. Given at <hi>Matden-heath,</hi> 10. <hi>Novem.</hi> 1642. 1 <hi>Sheet in Folio. Reprinted</hi> 22. <hi>Decemb.</hi>
+               </item>
+               <label>97</label>
+               <item>The Ingagement and Resolution of the principall Gentle<g ref="char:EOLhyphen"/>men of the County of <hi>Salop,</hi> for the raising and maintaining of Forces at their own charge, for the defence of His Majesty, their Countrey, and more particularly the fortunes, persons, and Estates of the Subscribers under-named. 1 <hi>Sheet in Folio. Brinted</hi> 23. <hi>Decemb.</hi> 1642.</item>
+               <label>
+                  <pb facs="tcp:179338:8"/> 98</label>
+               <item>The Declaration of the Lords and Commons affembled in the Parliament of <hi>England,</hi> to the Subjects of <hi>Scotland.</hi> With His Majesties Message to the Lords of his Privy Councell of <hi>Scotland,</hi> upon that occasion. <hi>To be read in Churches.</hi> 1 <hi>Sheet and a half in Quarto. Reprinted Decemb.</hi> 24. 1642.</item>
+               <label>99</label>
+               <item>The Ordinance and Declaration of the Lords and Com<g ref="char:EOLhyphen"/>mous, for the Assessing all such who have not contributed sufficiently for raising of Money, Plate, &amp;c. With His Maje<g ref="char:EOLhyphen"/>sties Declaration to all His loving Subjects upon occasion thereof. <hi>To be read in Churches.</hi> 2 <hi>Sheets and a Half in Quarto. Reprinted the</hi> 27. <hi>of Decemb.</hi> 1642.</item>
+               <label>100</label>
+               <item>
+                  <hi>Wiltshires</hi> Resolution, Presented with the Contributions of divers Gentlemen to His Majesties Commissioners at <hi>Oxford.</hi> 1 <hi>Sheet in Fol. Reprinted Ianuary the</hi> 2. 1642.</item>
+               <label>101</label>
+               <item>The humble Petition of Sir <hi>Iames Mountgomery,</hi> Sir <hi>Hards Waller</hi> Knights and Colonells, and of Colonell <hi>Arthur Hill,</hi> and Colonell <hi>Audley Mervin,</hi> in the behalf of themselves and others, Commanders in His Majesties Army in <hi>Ireland.</hi> 1 <hi>Sheet in Folio. Reprinted Ianuary</hi> 4. 1642.</item>
+               <label>102</label>
+               <item>A Proclamation prohibiting the payment and receipt of <hi>Tonnage</hi> and <hi>Poundage,</hi> and other Impossitions upon Merchan<g ref="char:EOLhyphen"/>dises, under colour of the late pretended Ordinance of both Houses of Parliament. Given under the Signe Manuall at <hi>Oxford,</hi> the 16. of <hi>Decemb.</hi> 1642. 1 <hi>Sheet in Folio, Reprint<g ref="char:EOLhyphen"/>ed Ianuary</hi> 5. 1642.</item>
+               <label>103</label>
+               <item>A Complaint to the House of Commons, and Resolution taken up by the free Protestant Subjects of the Cities of <hi>Lon<g ref="char:EOLhyphen"/>don and Westminster,</hi> and the Counties adjacent. 3 <hi>sheets and a Half in quarto. Reprinted Ian.</hi> 13. 1642.</item>
+               <label>104</label>
+               <item>To Our right Trusty and right Welbeloved the Nobility and Gentry, And to Our. Trusty and Welbeloved <hi>Henry
+<pb facs="tcp:179338:9"/>Bromley</hi> Esquire, High Sheriffe of Our County of <hi>Salop, Iohn Studley</hi> Esquire the major, and the rest of the Aldermen and Inhabitants of Our good Town of <hi>Shrewsbury;</hi> Sir <hi>Vincent Corbet</hi> Knight and Baronet, Colonell of the Regiment of Dra<g ref="char:EOLhyphen"/>goneers; the Clergy, and other Our well-affected Subjects of Our said County of <hi>Salop,</hi> and to all and every of them. 1 <hi>sheet in Fol. Printed Ianu.</hi> 14. 1642.</item>
+               <label>105</label>
+               <item>The humble Petition of the Major, Aldermen and Com<g ref="char:EOLhyphen"/>mons of the City of <hi>London</hi> to His Majesty. With His Majesties Gracious Answer thereunto. 1 <hi>sheet and a half in quarto. Reprinted Ian.</hi> 18. 1642.</item>
+               <label>106</label>
+               <item>His Majesties Letter and Declaration to the Sheriffes and City of <hi>London, Ian.</hi> 19. 1 <hi>Sheet in quarto. Reprinted Ian.</hi> 25. 1642.</item>
+               <label>107</label>
+               <item>A Proclamation prohibiting all persons whatsoever, from buying or receiving Horse, or Arms of any kinde, from any Souldiers of his Majesties Army; with a command for bring<g ref="char:EOLhyphen"/>ing in of all such as have been Sold, Pawned, Left, or Lost by any Souldier. 1 <hi>Sheet in Folio. Reprinted Ianuary</hi> 30. 1642.</item>
+               <label>108</label>
+               <item>An honest Letter to a doubtfull friend, about the rifling of the twentieth part of his Estate. 1 <hi>Sheet in quarto. Reprinted Feb.</hi> 4. 1642.</item>
+               <label>109</label>
+               <item>A Letter sent from a Countrey Gentleman, to a friend, a Member of the House of Commons; Concerning the taking of <hi>Maleborough.</hi> Of the disorders of the Parliament Soul<g ref="char:EOLhyphen"/>diers; Perswading to an Accommodation. 1 <hi>sheet and a half in querto. Reprinted Feb.</hi> 8. 1642.</item>
+               <label>110</label>
+               <item>A Speech made by Alderman <hi>Garroway,</hi> at a Common-hall, on Tuesday the 17. of <hi>Ian.</hi> upon occasion of a Speech deli<g ref="char:EOLhyphen"/>vered there thee Fryday before, by Master <hi>Pym,</hi> at the reding of His Majesties Answer to the late Petition. 2 <hi>sheets in quart<g ref="char:EOLhyphen"/>to. Reprinted Feb.</hi> 13. 1642.</item>
+               <label>111</label>
+               <item>The humble Dessres and Propositions of the Lords and Commons in Parliament, tendred to His Majesty <hi>Feb.</hi> 1. And
+<pb facs="tcp:179338:9"/>His Majesties Gracious Answer and Propositions, the third of <hi>Feb.</hi> 2 <hi>Sheets in Quarto. Reprinted Feb.</hi> 20. 1642.</item>
+               <label>112</label>
+               <item>A Proclamation for the strict Observance, and Execution of the Laws, and Statutes made against Carrying, or Sending of Gold or Silver out of the Kingdom. Given at <hi>Oxford</hi> the 10. of Feb. 1642. <hi>One sheet in Folio. Reprinted</hi> Feb. 22.</item>
+               <label>113</label>
+               <item>A Proclamation for the safety of His Majesties Navy, and the Kingdom. Given at <hi>Oxford</hi> the 10. of <hi>Feb.</hi> 1642. 1 <hi>Sheet in Folio Reprinted</hi> Feb. 23.</item>
+               <label>114</label>
+               <item>A Proclamation for the payment of His Majesties Rents, and Revenues into His Receipt of His Exchequer, at His City of <hi>Oxford.</hi> Given at <hi>Oxford</hi> Feb. 8. 1642. 1 <hi>sheet in Folio. Reprinted</hi> Feb. 28.</item>
+               <label>115</label>
+               <item>His Majesties Letter to the High-Sheriffe, and Justices of the Peace, of the County of <hi>Glocester.</hi> 1 <hi>Sheet in Quarto. Re<g ref="char:EOLhyphen"/>printed March</hi> 1. 1642.</item>
+               <label>116</label>
+               <item>A Protestation to be tendred to all His Majesties Faithfull and Loyall Subjects. <hi>Half a sheet in Folio. Printed March</hi> 2. 1642.</item>
+               <label>117</label>
+               <item>An Answer of the Right Honourable the Earl of <hi>Newcastle</hi> His Excellency, &amp;c. To the 6. groundlesse Aspersions cast upon him by the Lord <hi>Fairfax,</hi> in his late Warrant (here inserted) bearing date Feb. 2. 1642. By the Earl himself, 2 <hi>Sheets in Quarto. Reprinted March.</hi> 12. 1642</item>
+               <label>118</label>
+               <item>The Remonstrance of the Commons of <hi>England,</hi> to the House of Commons assembled in Parliament; Preserred to them by the hands of the Speaker. 2 <hi>Sheets in Quarto. Reprinted March,</hi> 16. 1642.</item>
+               <label>119</label>
+               <item>The Votes agreed on by the Lords and Commons concern<g ref="char:EOLhyphen"/>ing a Treaty: And their desire of a safe Conduct, for a Com<g ref="char:EOLhyphen"/>mittee named by them in the Earl of <hi>Manchestsrs</hi> Letter of the 28. of Feb. to the Lord of <hi>Falkland.</hi> With His Majesties gracious Answer thereunto. And His Majesties sale Con<g ref="char:EOLhyphen"/>duct. Also the Articles of both Houses or Parlia ment, con<g ref="char:EOLhyphen"/>corning
+<pb facs="tcp:179338:10"/>a Cessation. With a Letter of the 28. of Feb. from the said Earl of <hi>Manchester,</hi> to the said Lord Viscount of <hi>Falk<g ref="char:EOLhyphen"/>land,</hi> wherein they were inclosed. Together with His Majesties gracious Answer to the same. 2 <hi>sheets in quarto. Reprinted March</hi> 22. 1642.</item>
+               <label>120</label>
+               <item>The Remonstrance of the Commons of <hi>England,</hi> to the House of Commons assembled in Parliament: Preferred to them by the hands of the Speaker. 2 <hi>sheets inquarto. Reprint<g ref="char:EOLhyphen"/>ed March</hi> 24. 1642.</item>
+               <label>121</label>
+               <item>A Proclamation for preventing the Plundring, Spoyling or Robbing of any His Majesties Subjects. And for restrain<g ref="char:EOLhyphen"/>ing of Stragling and Idle People from following the Army; As likewise for supplying His Majesties Army with necessary Provisions during their March. <hi>Given at Oxford March</hi> 17. 1642. 1 <hi>sheet in Folto, Reprinted March</hi> 26. 1543.</item>
+               <label>122</label>
+               <item>A Proclamation forbidding all Assessing, Collecting, and Paying of the twentieth Part, and of all weekly Taxes, by Colour of Orders, or Ordinances, And all entring into Pro<g ref="char:EOLhyphen"/>testations, and Associations against His Majestie. Given at <hi>Oxford</hi> the 8. of <hi>March</hi> 1642. 1 <hi>Sheet in Folio. Reprinted March</hi> 28. 1643.</item>
+               <label>123</label>
+               <item>To the Kings most Excellent Majesty, The humble Petition of the Commissioners of the Generall Assembly of the Kirk of <hi>Scotland,</hi> met at <hi>Edenborough</hi> Jan. 4. 1642. And now lately presented to His Majesty at <hi>Oxford.</hi> With His Maj sties gra<g ref="char:EOLhyphen"/>cious Answer thereunto <hi>March</hi> 16. 2 <hi>Sheets and a half in Quarto. Reprinted March</hi> 30. 1643.</item>
+               <label>124</label>
+               <item>A Proclamation against the Spoyling and Losing of Arms by the Souldiers of His Majesties Army, for the keeping of them fixt, and bringing all Arms hereafter into His Majesties Magazines, Given at <hi>Oxford</hi> the 10. of <hi>March</hi> 1642. 1 <hi>Sheet in Fol. Reprinted April</hi> 1. 1643.</item>
+               <label>125</label>
+               <item>A Proclamation of His Majesties, Grace, Favour, and Pardon to the Inhabitants of His Counties of <hi>Stafford</hi> and
+<pb facs="tcp:179338:10"/>
+                  <hi>Derby.</hi> Given at <hi>Oxford</hi> 25. <hi>March</hi> 1643. 1 <hi>sheet in Folio. Reprinted April</hi> 3.</item>
+               <label>126</label>
+               <item>
+                  <hi>Arthur</hi> Lord <hi>Capell,</hi> Lieutenant Generall under the Prince His Highnesse of His Majesties Forces, in the Counties of <hi>Wor<g ref="char:EOLhyphen"/>cester, Salop,</hi> and <hi>Chester,</hi> and the 6. Northern Counties of <hi>Wales.</hi> To all Commanders, Officers, and Souldiers, and to all other His Majesties Subjects whatsoever, whom these pre<g ref="char:EOLhyphen"/>sents shall or may in any wise concern. Given at <hi>Shrewsoury</hi> the 3. of <hi>April.</hi> 1 <hi>Sheet in Fol. Printed April</hi> 4. 1643.</item>
+               <label>127</label>
+               <item>The Articles of Cessation of the Lords and Commons in Parliament; Presented to His Majesty upon consideration of the former Articles, with the Alterations and Additions offered by His Majesty, And His Majesties gracious Answer there<g ref="char:EOLhyphen"/>unto <hi>March</hi> 22. 1642. 1 <hi>sheet in Quarto. Reprinted April</hi> 6.</item>
+               <label>128</label>
+               <item>A Proclamation for the better preserving of the Corn, and Grasse about the City of <hi>Oxford,</hi> and other places where the Kings Army is, or shall be quartered. Given at <hi>Oxford March</hi> 31. 1643. <hi>Halfa sheet. Reprinted April</hi> 10.</item>
+               <label>129</label>
+               <item>A Proclamation touching the Adjournment of part of <hi>Easter Term,</hi> And His Majesties proceedings concerning Ward<g ref="char:EOLhyphen"/>ships, and Lyveries. Given at <hi>Oxford April</hi> 1. 1643. 1 <hi>sheet in Folio, reprinted April</hi> 14.</item>
+               <label>130</label>
+               <item>The Reasons of the Lords and Commons in Parliament, why they cannot agree to the Alteration and Addition in the Articles of Cessation off red by His Majesty. With His majesties gracious Answer thereunto <hi>April</hi> 4. 1643. 2 <hi>sheets and a half in Quarto. Reprinted April</hi> 20.</item>
+               <label>131</label>
+               <item>A Proclamation prohibiting the Assessing, Collecting, or Paying any weekly Taxes, and Seizing or Sequestring the Rence or Estates of Our Good Subjects by colour of any Orders, or pretended Ordinances of one or both Houses of Parliament.
+<pb facs="tcp:179338:11"/>Given at <hi>Oxford April</hi> 7. 1643. 1 <hi>sheet in Folio. Reprinted April.</hi> 21.</item>
+               <label>132</label>
+               <item>A Paper received by His Majesty from the Committee of both Houses upon the 8. of <hi>April.</hi> With His Majesties graci<g ref="char:EOLhyphen"/>ous Message to both Houses, in Answer to theesame. 1 <hi>sheet in Quarto. Reprinted April</hi> 22. 1643.</item>
+               <label>133</label>
+               <item>His Majesties Message to both Houses concerning Disband<g ref="char:EOLhyphen"/>ing of both Armies, And His Majesties return to both Houses of Parliament. <hi>Oxford,</hi> 12. <hi>April</hi> 1643. 1 <hi>Sheet in quarte. Reprinted April</hi> 23.</item>
+               <label>134</label>
+               <item>A Proclamation of His Majesties gracious Resolution for the relief of all such Souldiers as are or shall be maymed in His Majesties Service. Given at <hi>Oxford May</hi> 2. 1643. 1 <hi>sheet in Folio. Reprinted May</hi> 7.</item>
+               <label>135</label>
+               <item>The Collections of all the particular Papers that passed be<g ref="char:EOLhyphen"/>tween His Majesty, both houses, and the Committee, con<g ref="char:EOLhyphen"/>cerning the late Treaty. 6 <hi>Sheets and a half in Quarto. Reprinted May</hi> 17. 1643.</item>
+               <label>136</label>
+               <item>His Majesties Message to both houses of Parliament <hi>May</hi> 5. 1643. Occasioned by a Bill delivered to His Majesty from both houses, by Sir <hi>Robert King</hi> Knight, and <hi>William Iephson,</hi> and <hi>Arthur Hill</hi> Esqutres, Entituled, An Act for the speedy payment of Moneys subscribed towards the Reducing of the Rebells in <hi>Ireland,</hi> which yet remain unpaid. 1 <hi>Sheet in Quarto. Reprinted</hi> May 20. 1643.</item>
+               <label>137</label>
+               <item>A Letter to a Gentleman of <hi>Leicesler-shire,</hi> shewing out of the publike writings which have passed betwixt His Majesty and his two houses of Parliament, That all the Overtures which have been made for Peace and Accommodation, have proceeded from His Majesly onely: And that the unsuccesse<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> fi<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nesse of the late Treaty, is not to be imputed to His Majesty, but to them alone. 6 <hi>Sheets in querto. Reprinted Iune</hi> 4. 1643.</item>
+               <label>138</label>
+               <item>A Proclamation against the Oppression of the Clergy, by the Intrusion of Factious and Schismaticall Persons into their
+<pb facs="tcp:179338:11"/>Cures, and inverting and detaining their Tithes and Possessi<g ref="char:EOLhyphen"/>ons, by Orders of both Houses of Parliament, contrary to all Law and Justice, Given at <hi>Oxford</hi> May 15. 1643. 2 <hi>Sheet in Folio. Reprinted</hi> May 22.</item>
+               <label>139</label>
+               <item>His Majesties Message to both houses of Parliament, of the 19. of May 1643. In Pursuance of His Majesties former. Message of the 12. of <hi>April,</hi> Concerning the Disbanding of both Armies, And His Majesties return to both Houses of parliament. 1 <hi>sheet in Folio. Reprinted</hi> May 27. 1643.</item>
+               <label>140</label>
+               <item>His Majesties Letter to the Major, Aldermen, Schriffe, and the rest of the Common-Councell of the City of <hi>Bristoll. Half asheet in Folio. Reprinted Iune</hi> 7. 1643.</item>
+               <label>141</label>
+               <item>The Round-heads Remembrancer: Or a true and particular Relation of the great Defeat given to the Rebells, by his Maje<g ref="char:EOLhyphen"/>sties good Subjects of the County of <hi>Cornwall,</hi> under the Com<g ref="char:EOLhyphen"/>mand of Sir <hi>Ralph Hopton,</hi> on Tuesday May 16. 1643. 1 <hi>sheet in quarto. Reprinted Iune</hi> 8.</item>
+               <label>142</label>
+               <item>My Lord <hi>Capell</hi> his Warrant of the 7. of <hi>Iune</hi> 1643. To the Trained Bands of the County of <hi>Salop.</hi> 1 <hi>Sheet in Folio. Printed Iune</hi> 8. 1643.</item>
+               <label>143</label>
+               <item>A Protestation confirmed by Oath, taken by the Major, and the Loyally-Affected in the City of <hi>Chestor,</hi> for the defence of that City, against this present Rebellion in <hi>Iune</hi> 1643. <hi>Half a sheet in Folio. Printed</hi> June 10. 1643.</item>
+               <label>144</label>
+               <item>My Lord <hi>Capells</hi> Letter to the Gentlemen, of <hi>Shropshire</hi> of the 13. of <hi>Iune</hi> 1643. 1 <hi>sheet in Polie. Printed Iune</hi> 12.</item>
+               <label>145</label>
+               <item>
+                  <hi>Mercurius Rusticus,</hi> or the Countreys Complaint of the Murthers, Robberies, Plundrings, and other Outrages com<g ref="char:EOLhyphen"/>mitted by the Robells on His Majesties faithfull Subjects. The first week. <hi>May</hi> 20. 1643. 2 <hi>Sheets in quarto. Printed Iune</hi> 13.</item>
+               <label>
+                  <pb facs="tcp:179338:12"/> 146</label>
+               <item>A Proclamation for the inhibiting all manner of Oathes, other Abuses and Prophanations by any of His Majesties Ar<g ref="char:EOLhyphen"/>my; As likewise strictly commanding the due and constand frequenting of the Service of God, by all the Officers and Souldiers of the same. Given at <hi>Oxford Iune</hi> 13. 1643. <hi>de<g ref="char:EOLhyphen"/>printed Iune</hi> 20.</item>
+               <label>147</label>
+               <item>
+                  <hi>Mercurius Rusticus</hi> the Second week. 1 <hi>sheet in quarto. Re<g ref="char:EOLhyphen"/>printed Iune</hi> 22. 1643.</item>
+               <label>148</label>
+               <item>A Proclamation warning all His Majesties good Subjects no longer to be mis-led by the Votes, Orders, and pretended Ordinances of one or both houses, by reason the Members doe not injoy the Freedom and Liberty of Parliament: With His Majesties gracious offer of Pardon to the Members of bothy Houses, And of Protection to such of them as shall repaire to Him. Given at <hi>Oxford</hi> the 20. of <hi>Iune</hi> 1643. 3 <hi>Sheets in Folio. Reprinted Iune</hi> 29.</item>
+               <label>149</label>
+               <item>His Majesties Proclamation forbidding the Tendring of Taking of the late Vow or Covenant, devised by some Mem<g ref="char:EOLhyphen"/>bers of both houses to engage His Majesties good Subjects in the maintenance of this Odious Rebellion. Given at <hi>Oxford</hi> the 21. of <hi>Iune.</hi> 1643. 1 <hi>Sheet in Folio. Reprinted Iuly</hi> 2. 1643.</item>
+               <label>150</label>
+               <item>A Proclamation inhibiting the Assembly of any Divines, or others, by colour of a pretended Ordinance of the Lords and Commons of the Twelfth of <hi>Iune</hi> last past, or any Pro<g ref="char:EOLhyphen"/>ceedings there upon. Given at <hi>Oxford</hi> the 22. of <hi>Iune</hi> 1643. 2 <hi>Sheets in Folio. Reprinted</hi> July 3.</item>
+               <label>151</label>
+               <item>
+                  <hi>Mercurius Rusticus</hi> the third week, 1 <hi>Sheet in quarto. Reprinted Iuly</hi> 5. 1643.</item>
+               <label>152</label>
+               <item>His Majesties Declaration to all his loving Subjects, in An<g ref="char:EOLhyphen"/>swer to a Declaration of the Lords and Commons, upon the Proceedings of the late Treaty of Peace, and severall inter<g ref="char:EOLhyphen"/>cepted Letters of His Majesty to the Queen, and of Prince <hi>Rupert</hi> to the Earl of <hi>Northampton. Oxford</hi> 3. <hi>Iune</hi> 1643. 6 <hi>sheets and a half in quarte. Reprinted</hi> July 8. 1643.</item>
+               <label>
+                  <pb facs="tcp:179338:12"/> 153</label>
+               <item>The Kings Majesties Declaration to all his loving Subjects of his Kingdom of <hi>Scotland.</hi> With an Act of the Lords of his Majesties Privy Councell, for the Printing and Publishing thereof. And a Letter of the Lord Chancel our of <hi>Scotland,</hi> and of other Lords, and others of His Majesties Privy Coun<g ref="char:EOLhyphen"/>cell in that Kingdom to His Majesty. 1 <hi>sheet and a Half in quarto. Reprinted</hi> July 10. 1643.</item>
+               <label>154</label>
+               <item>A thanksgiving for his Majesties late Victory over the Re<g ref="char:EOLhyphen"/>bells in the <hi>North. Half a sheet in Folio. Reprinted</hi> July 12. 1643.</item>
+            </list>
+            <list>
+               <label>155</label>
+               <item>
+                  <list>
+                     <item>A proclamation declaring His Majesties Grace to the Mariners and Sea-men. Given at <hi>Oxford</hi> the 7. day of <hi>Iuly</hi> 1643. 1 <hi>sheet in Folio. Reprinted Iuly</hi> 18.</item>
+                     <item>
+                        <hi>Mercurius Rusticus,</hi> the fourth weeke. 1 <hi>sheet in quarto. Re<g ref="char:EOLhyphen"/>printed</hi> July. 20. 1643</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>156</label>
+               <item>My Lord <hi>Capells</hi> Warrant to recall all the Souldiers gone from their Colours, to repaire to them by the first of <hi>Aug.</hi> 1643. upon pain of death. Given the 25. of <hi>Iuly.</hi> 1 <hi>Sheet in Folio. Reprinted</hi> July 26. 1643.</item>
+               <label>257</label>
+               <item>
+                  <hi>Via Tuta,</hi> The safe way for Christian Subjects to walke in in these dangerous times. <hi>Half a sheet in Folio. Reprinted</hi> July 27. 1643.</item>
+               <label>158</label>
+               <item>A Proclamation-prohibiting from henceforth, all enter<g ref="char:EOLhyphen"/>course of Trade between Our City of <hi>London</hi> and other parts of this Our Kingdom, untill other direction given by Us. Given at <hi>Oxford,</hi> July 17. 1643. 1 <hi>Sheet in Folio. Reprinted</hi> July 28.</item>
+               <label>159</label>
+               <item>A Proclamation forbidding any of His Majestios Subjects to affist the Rebells with Men, Money, Arms, Victuals, or In<g ref="char:EOLhyphen"/>telligence, to stop any His Majesties. messengers, or Pacquets, or to offer Violence to any His Majesties Souldiers. Given at <hi>Oxford,</hi> 18. <hi>Iuly</hi> 1643. 1 <hi>Sheet in Folio. Reprinted</hi> July. 29.</item>
+               <label>160</label>
+               <item>A Protestation and Oath to be tendered to the Inhabitants
+<pb facs="tcp:179338:13"/>of the Counties of <hi>Worcester, Salop,</hi> and <hi>Chester,</hi> and the <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Counties of <hi>North-Wales,</hi> according to an Act of Councell<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Warre, holden at <hi>Shrewsoury</hi> the 28. of <hi>Iuly</hi> 1643. <hi>Half a sheet in Fol. Printed Iuly</hi> 30.</item>
+               <label>161</label>
+               <item>My Lord <hi>Capells</hi> Letter to the Knights, Gentlemen, and o<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Inhabitants of the County of <hi>Salop,</hi> to appear at <hi>W<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> church</hi> on the 3. of <hi>Aug.</hi> 163. <hi>Half a sheet. Printed</hi> July 3. <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <label>162</label>
+               <item>A Collection of Prayers and Thanksgivings, used in Hi<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Majesties Chappell and in his Armies, upon occasion of the late Yictories against the Rebells, and for the future successe of the Forces. Published by His Majesties command to be dul<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> read in all other Churches and Chappells within this <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Kingdom, and Dominion of <hi>Wales.</hi> 1 <hi>Sheet and a half in quarto. Reprinted Aug.</hi> 4. 1643.</item>
+               <label>163</label>
+               <item>His Majesties Declaration to all his loving Subjects after his Victories over the Lord <hi>Fairefax</hi> in the North, and Sir <hi>William Waller</hi> in the West, and the taking of <hi>Bristoll</hi> by His Majesties Forces. 1 <hi>Sheet in Quarto. Reprinted Aug.</hi> 5. 1643.</item>
+            </list>
+            <list>
+               <label>164</label>
+               <item>
+                  <list>
+                     <item>A Proclamation commanding Mariners, and Sea-men in reparire to His Majessies Fleet, under the command of Sir Iohn <hi>Pennington</hi> at <hi>Bristoll</hi> or elsewhere. Given at <hi>Oxford</hi> the last of <hi>Iuly</hi> 1643. <hi>Half a sheet in Folio. Reprinted Aug.</hi> 8.</item>
+                     <item>His Majesties Royall Protestation made in the head of his Army the 19. day of <hi>September</hi> 1642. <hi>Half a sheet in Folio. re<g ref="char:EOLhyphen"/>printed Aug.</hi> 9.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>165</label>
+               <item>My Lord <hi>Capells</hi> Letter to the Gentlemen of the County of <hi>Salop</hi> and others, concerning the loane of Moneys. 1 <hi>sheet in Folio. Printed Aug.</hi> 10. 1643.</item>
+               <label>166</label>
+               <item>His Majesties Gracious Message and Summons to the Ci<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of <hi>Glocester Aug.</hi> 10. 1643. With their Answer thereunto <hi>Half a sheet in Folio. Reprinted Aug.</hi> 16. 1643.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
